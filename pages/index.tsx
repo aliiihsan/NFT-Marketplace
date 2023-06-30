@@ -41,20 +41,7 @@ const Home: NextPage = () => {
                   Dino NFT Marketplaces
                 </span>
                 <br />
-                (dinomu cok seviyom)
               </h1>
-              <p className={styles.heroSubtitle}>
-                <Link
-                  className={styles.link}
-                  href="https://thirdweb.com"
-                  target="_blank"
-                >
-                  thirdweb
-                </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
-              </p>
-
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
                   Get Started
